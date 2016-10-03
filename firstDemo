@@ -1,4 +1,6 @@
-public  class  Demo( String){
-   System.out.print("hello  world");
+public  class  Demo( String args[]){
+     System.out.print("hello  world");
+     System.out.print("hello  123");
+     System.out.print("hello  123");
 }
 
